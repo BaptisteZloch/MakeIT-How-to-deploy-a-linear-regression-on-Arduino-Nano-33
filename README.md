@@ -15,6 +15,7 @@ Here is a schema of the neural network :
 ## [Arduino part](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-a-linear-regression-on-Arduino-Nano-33/tree/main/Arduino%20code/MakeIT_LinearRegression)
 
 In this part I have used VS code and platformIO IDE to deploy the model onto the Arduino nano 33 BLE sense. To do it we had to import our model, and a library to deploy it. I have choosen EloquentTinyML.h. This library uses Tensorflow lite micro core and simplify the deployement. For another tutorial I will show you how to use directly tensorflow lite micro core.
+
 Here is the result of the inferences (quite accurate) : 
 
 ![Results of the prediction](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-a-linear-regression-on-Arduino-Nano-33/blob/main/Results.png?raw=true)
