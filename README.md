@@ -3,6 +3,11 @@
 This repository is dedicated to the first tutorial of my YouTube channel: MakeIT.
 This tutorial is called "How to deploy a linear regression on Arduino Nano 33 ?" it's available here.
 
+You can find below the pipeline to develope a TinyML project :
+
+![Pipeline](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-a-linear-regression-on-Arduino-Nano-33/blob/main/Pipeline.png?raw=true)
+
+
 ## [Python part](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-a-linear-regression-on-Arduino-Nano-33/tree/main/Python%20model%20and%20files)
 
 The linear regression is designed using Tensorflow and Keras with only one layer of one neurone. This network has been trained on 2 numpy arrays x and y with y=2x+1.
