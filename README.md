@@ -1,7 +1,7 @@
 # MakeIT-How-to-deploy-a-linear-regression-on-Arduino-Nano-33
 
 This repository is dedicated to the first tutorial of my YouTube channel: MakeIT.
-This tutorial is called "How to deploy a linear regression on Arduino Nano 33 ?" it's available here.
+This tutorial is called "How to deploy a linear regression on Arduino Nano 33 ?" available [here](https://youtu.be/5Nu-sUCmGTM).
 
 You can find below the pipeline to develope a TinyML project :
 
